@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sec.chronal.space/sitemap.xml
